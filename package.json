@@ -36,7 +36,7 @@
     "babel-register": "^6.26.0",
     "chai": "^3.5.0",
     "coffeescript": "^2.4.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "supertest": "^4.0.2"
   },
   "directories": {
